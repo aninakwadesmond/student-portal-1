@@ -118,7 +118,9 @@
     background-color: #fff;
     z-index: 3;
   }
-  .section--history {
+  .section--histor,
+  .table--main {
+    width: 100%;
     overflow-x: auto;
   }
   .tr-w th:nth-child(7) {
