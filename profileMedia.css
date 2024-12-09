@@ -1,6 +1,6 @@
 @media (max-width: 54em) {
   html {
-    font-size: 50%;
+    font-size: 70%;
   }
   .student-code {
     line-height: 1.5;
@@ -79,17 +79,30 @@
     overflow: hidden;
   }
 }
-@media (max-width: 33rem) {
+@media (max-width: 35rem) {
   html {
-    font-size: 46%;
+    font-size: 70%;
   }
   .stick-top1 {
     top: 6%;
   }
+  .nav-menu {
+    width: 50%;
+  }
+  .nav-icon {
+    padding: 0;
+  }
+  a:link,
+  a:visited {
+    font-size: 2rem;
+  }
+  .gap-info {
+    gap: 5rem;
+  }
 }
 @media (max-width: 30em) {
   html {
-    font-size: 45%;
+    font-size: 70%;
   }
 
   .student-code {
