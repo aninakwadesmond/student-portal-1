@@ -94,10 +94,11 @@
   }
   a:link,
   a:visited {
-    font-size: 2rem;
+    font-size: 1.3rem;
   }
-  .gap-info {
-    gap: 5rem;
+
+  .gap-on {
+    gap: 3rem;
   }
 }
 @media (max-width: 30em) {
