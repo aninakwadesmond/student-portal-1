@@ -100,6 +100,33 @@
   .gap-on {
     gap: 3rem;
   }
+  .tbody tr td:first-child {
+    padding: 0 1.2rem;
+  }
+  .grid-item:first-child {
+    padding: 0 1rem;
+  }
+  .tr-w th:first-child,
+  .tr-w th:nth-child(2),
+  .tr-w th:nth-child(3),
+  .tr-w th:nth-child(4),
+  .tr-w th:nth-child(5),
+  .tr-w th:nth-child(6) {
+    padding-right: 1rem;
+  }
+  .menu {
+    background-color: #fff;
+    z-index: 3;
+  }
+  .section--history {
+    overflow-x: auto;
+  }
+  .tr-w th:nth-child(7) {
+    padding-right: 5rem;
+  }
+  .tr-W th:first-child {
+    padding-left: 1rem;
+  }
 }
 @media (max-width: 30em) {
   html {

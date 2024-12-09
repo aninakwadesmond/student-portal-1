@@ -95,8 +95,8 @@
   .center-image::after {
     content: ' ';
     display: block;
-    width: 40rem;
-    padding-bottom: 40rem;
+    width: 55rem;
+    padding-bottom: 55rem;
     border-radius: 50%;
     background-color: #eef7f2;
     position: absolute;
