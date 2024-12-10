@@ -1,3 +1,23 @@
+@media (max-width: 35em) {
+  input[type='text'],
+  .text,
+  .password,
+  input[type='password'] {
+    padding: 1.2rem 2rem;
+    font-size: 2rem;
+  }
+  .btn-submit {
+    padding: 1.4rem 2.8rem;
+  }
+  .eye-on {
+    font-size: 2.5rem;
+  }
+  a:link,
+  a:visited {
+    font-size: 1.7rem;
+  }
+}
+
 @media (max-width: 27em) {
   html {
     font-size: 60%;
